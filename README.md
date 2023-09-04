@@ -3,7 +3,7 @@
 ### Get project template
 
 ```bash
-npx degit alanjschneider/simple-node-project-template
+npx degit alanjschneider/simple-node-project-template your-project-name
 ```
 
 ### Install dependencies
